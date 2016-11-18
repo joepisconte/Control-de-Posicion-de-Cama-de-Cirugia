@@ -1,4 +1,4 @@
-##Control de dos Motores con Relay para el control de la inclinación y la elevación de una cama de hospital.
+##Control de dos Motores con Relay para el control de la inclinación y la elevación de una cama para Cirugía.
 
 Este programa permite controlar cuatro relays y almacenar en memoria hasta tres posiciones de una camara de Cirugía.
 
